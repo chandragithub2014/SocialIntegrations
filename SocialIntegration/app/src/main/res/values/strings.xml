@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialIntegration</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_id">919366608117749</string>
+</resources>
